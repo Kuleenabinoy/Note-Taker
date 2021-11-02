@@ -65,7 +65,6 @@ app.post("/api/notes", (req, res) => {
     // send the new added note/response back to the client
     res.sendFile(path.join(__dirname, "public/notes.html"));
 });
-
 // DELETE /api/notes
 
 app.delete("/api/notes/:id", (req, res) => {
@@ -86,7 +85,6 @@ app.delete("/api/notes/:id", (req, res) => {
         res.json(noteTaker);
     });
 });
-
 //HTML Routes
 
 // GET /notes - Should return the notes.html file.
