@@ -20,7 +20,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 # Installation
 
 ```
-Use npm i to intall dependencies
+Use npm i to install dependencies
 ```
 
 # Usage
@@ -37,7 +37,8 @@ HTML,CSS,Javascript,Nodejs ,Heroku,GitHub
 
 # Links
 
-Heroku deployed link
+Heroku deployed
+
 https://note-taker-homeworkweek11.herokuapp.com/
 
 Git Hub Repo
