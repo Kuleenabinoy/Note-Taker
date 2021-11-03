@@ -33,15 +33,12 @@ HTML,CSS,Javascript,Nodejs ,Heroku,GitHub
 
 ![Screenshot 2021-11-03 11 13 07](https://user-images.githubusercontent.com/86656634/139968730-bc63ef12-0eba-4bb1-9e57-20b5c9369b2c.png)
 
-
 ![Screenshot 2021-11-03 11 13 57](https://user-images.githubusercontent.com/86656634/139968750-81420284-3cab-4434-86f9-ee5ad9891ca2.png)
-
 
 # Links
 
 Heroku deployed link
-
-https://git.heroku.com/note-taker-homeworkweek11.git
+https://note-taker-homeworkweek11.herokuapp.com/
 
 Git Hub Repo
 
