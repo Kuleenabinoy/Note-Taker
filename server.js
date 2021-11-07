@@ -1,15 +1,15 @@
 // Dependencies
 
-var express = require("express");
-var path = require("path");
+const express = require("express");
+const path = require("path");
 const fs = require("fs");
 
 // Sets up and initializes the Express App server
 
-var app = express();
+const app = express();
 
 // Sets an initial portr
-var PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 
 // Middleware sets up the Express app to find/use files and handle data parsing
 app.use(express.urlencoded({ extended: true }));
